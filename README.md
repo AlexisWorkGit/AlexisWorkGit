@@ -1,5 +1,5 @@
 # Alexis Villegas 
-
+<a href="https://app.daily.dev/Villegas"><img src="https://api.daily.dev/devcards/0c5ecd3fae084ab68adb6dcde4846b09.png?r=4jj" width="400" alt="Alexis's Dev Card"/></a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexisfernandovillegaspazos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19286019) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alexisworkgit) 
 
